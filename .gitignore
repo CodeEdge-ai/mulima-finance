@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# dotenv
+.env
+
+# Build directories
+/dist/
+/build/
+
+# Logs
+logs/**/*.log
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Compiled source
+*.com
+*.d.ts
+
+# Ignore for npm
+npm-debug.log*
